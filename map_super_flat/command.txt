@@ -1,0 +1,24 @@
+home
+teleport Ivan_Lee 549 71 38
+teleport Ellorie_Mak 549 71 38
+teleport @a 549 71 38
+
+viliege
+teleport Ivan_Lee 1210 66 -182
+teleport Ellorie_Mak 1210 66 -182
+
+
+Lava pool
+teleport Ivan_Lee 271.984 64 -145.979
+teleport Ivan_Lee 259 64 69
+
+Animal
+Cow and horse
+teleport Ivan_Lee -128 65 -19
+teleport @a -128 65 -19
+Pig
+teleport Ivan_Lee -204 65 -4
+Chiknen
+teleport Ivan_Lee 633 65 -58
+
+

@@ -1,0 +1,9 @@
+home
+teleport Ivan_Lee 226 76 105
+teleport Ellorie_Mak 226 76 105
+teleport @a 226 76 105
+
+viliege 1
+teleport Ivan_Lee 718 73 1024
+teleport Ellorie_Mak 718 73 1024
+teleport @a 718 73 1024

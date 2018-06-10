@@ -1,0 +1,11 @@
+lower
+/teleport @a -16 71 256
+/teleport Ellorie_Mak -16 71 256
+/teleport Ivan_Lee -16 71 256
+
+higher
+/teleport @a -42 128 291
+/teleport Ivan_Lee -42 128 291
+
+/gamemode 0 Ivan_Lee
+/give Ivan_Lee gold_block 1

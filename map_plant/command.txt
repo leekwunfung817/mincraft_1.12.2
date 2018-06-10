@@ -1,0 +1,20 @@
+under
+/teleport Ivan_Lee -47 166 -6
+/teleport @a
+-47 1 -166
+
+upthere
+/teleport @a
+-47 238 47
+Ivan_Lee
+
+store
+/teleport Ivan_Lee -47 232 46
+/teleport @a -47 232 46
+
+/give Ivan_Lee Water
+
+
+
+/teleport Ellorie_Mak
+500 238 500
